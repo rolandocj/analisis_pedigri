@@ -1,0 +1,19 @@
+Number of simulations: 1000
+
+Save raw data: Yes
+Data for all markers: Yes
+
+Seed: 155
+
+Genotypes:
+
+Will be genotyped
+PresuntoPadre
+Madre
+Hijo
+
+Not genotyped
+PadreBiológico
+
+
+

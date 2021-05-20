@@ -1,0 +1,93 @@
+"Output from Familias, version 3.2.8"
+"DO NOT EDIT!"
+3.2.8
+""
+4
+"PresuntoPadre"
+#FALSE#
+-1
+#FALSE#
+#TRUE#
+0
+"Madre"
+#FALSE#
+-1
+#FALSE#
+#FALSE#
+0
+"Hijo"
+#FALSE#
+-1
+#TRUE#
+#TRUE#
+0
+"PadreBiológico"
+#FALSE#
+-1
+#FALSE#
+#TRUE#
+0
+"Known relations"
+0
+0
+0
+2
+0
+"H1:PP-PadreVerdadero"
+0
+0
+2
+0
+2
+1
+2
+1
+"H2:PP-SinRelacion"
+0
+0
+2
+3
+2
+1
+2
+#FALSE# (#Databases: 1 ;Theta/Kinship/Fst: 0 )
+1
+#TRUE#
+"PruebaDVI"
+"marcador1"
+0
+0
+0
+0
+5
+0.1
+0.1
+0.0
+0.0
+#FALSE#
+0
+5	(DatabaseSize = 2500 , Dropout probability = 0 , Minor allele frequency = 0 )
+"a_1"
+0.1
+"a_2"
+0.14
+"a_3"
+0.24
+"a_4"
+0.04
+"a_5"
+0.48
+[Advanced]
+[[Direct/Identity]]
+Dropin= 0
+Dropout= 0
+Error= 0
+[[Other]]
+NumberOfDecimals= 10
+[[DVI]]
+QuickSearch= Enabled
+AllowedMismatches= 5
+[[Simulation]]
+SaveGenotypes= Disabled
+SaveComplete= Enabled
+ForceMAF= Disabled
