@@ -18,7 +18,7 @@ pip install pgmpy
 Consultar las libretas de Jupyter
 
 - [Uso de funciones.ipynb](https://github.com/rolandocj/analisis_pedigri/blob/main/Uso%20de%20funciones.ipynb)
-- [Validaciónn con Familias - Paternidad.ipynb](https://github.com/rolandocj/analisis_pedigri/blob/main/Validaci%C3%B3n%20con%20Familias%20-%20Paternidad.ipynb)
+- [Validación con Familias - Paternidad.ipynb](https://github.com/rolandocj/analisis_pedigri/blob/main/Validaci%C3%B3n%20con%20Familias%20-%20Paternidad.ipynb)
 
 ## Autor
 
